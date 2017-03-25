@@ -1,2 +1,1 @@
-# hex
-Hex project repository
+# immaterium
